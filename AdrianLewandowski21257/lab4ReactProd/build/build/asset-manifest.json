@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jwpwai/AdrianLewandowski21257/lab4ReactProd/build/static/css/main.a5c9881b.css",
+    "main.js": "/jwpwai/AdrianLewandowski21257/lab4ReactProd/build/static/js/main.281160aa.js",
+    "static/js/453.6623e012.chunk.js": "/jwpwai/AdrianLewandowski21257/lab4ReactProd/build/static/js/453.6623e012.chunk.js",
+    "index.html": "/jwpwai/AdrianLewandowski21257/lab4ReactProd/build/index.html",
+    "main.a5c9881b.css.map": "/jwpwai/AdrianLewandowski21257/lab4ReactProd/build/static/css/main.a5c9881b.css.map",
+    "main.281160aa.js.map": "/jwpwai/AdrianLewandowski21257/lab4ReactProd/build/static/js/main.281160aa.js.map",
+    "453.6623e012.chunk.js.map": "/jwpwai/AdrianLewandowski21257/lab4ReactProd/build/static/js/453.6623e012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5c9881b.css",
+    "static/js/main.281160aa.js"
+  ]
+}
